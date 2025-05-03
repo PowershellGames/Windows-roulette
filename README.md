@@ -1,2 +1,2 @@
 # Windows-roulette
-Your fate isn't roulette is hands
+Your fate isn't in roulette hands
